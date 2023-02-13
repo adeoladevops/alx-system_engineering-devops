@@ -1,2 +1,3 @@
 This for shell redirections I/O
-new project.
+new project
+head -n3 README.md | tail -n1
